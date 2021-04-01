@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="CurrencyConvertor.Master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+  <title>Welcome to Money Changer</title>
+</head>
+<body>
+    <link href="CSS/StyleSheet.css" rel="stylesheet" />
+  <div class="headings">
+    <h1>Currency Converter</h1>
+   </div>
+  <form id="form1" runat="server">
+    <div class="main-buttons">
+      <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+      </asp:ContentPlaceHolder>
+    </div>
+  </form>
+  <footer class="credits">
+    <p>Copyright@2020</p>
+  </footer>
+</body>
+</html>
+

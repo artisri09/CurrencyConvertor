@@ -1,0 +1,6 @@
+C:\Users\Harish\Documents\CurrencyConvertor\CurrencyConvertor\bin\CurrencyConvertor.dll.config
+C:\Users\Harish\Documents\CurrencyConvertor\CurrencyConvertor\bin\CurrencyConvertor.dll
+C:\Users\Harish\Documents\CurrencyConvertor\CurrencyConvertor\bin\CurrencyConvertor.pdb
+C:\Users\Harish\Documents\CurrencyConvertor\CurrencyConvertor\obj\Debug\CurrencyConvertor.csprojResolveAssemblyReference.cache
+C:\Users\Harish\Documents\CurrencyConvertor\CurrencyConvertor\obj\Debug\CurrencyConvertor.dll
+C:\Users\Harish\Documents\CurrencyConvertor\CurrencyConvertor\obj\Debug\CurrencyConvertor.pdb
